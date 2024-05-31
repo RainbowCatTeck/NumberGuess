@@ -8,8 +8,8 @@ def user_input():
     return player_input
 
 def __main__():
-    print("Please enter your desired attempt number")
     random_number = randint(1, 100)
+    print("Please enter your desired attempt number")
     attempts = int(input())
     while attempts > 0:
         print("Your attempts:" + str(attempts))
