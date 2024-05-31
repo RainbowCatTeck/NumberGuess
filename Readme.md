@@ -24,4 +24,4 @@ Create a number guessing game where the computer randomly selects a number withi
 5. **Task 5 - Error Handling:**
    - Handle any potential errors in the game, such as invalid input from the player.
 
-Remember, the key to building a project is to break it down into smaller, manageable tasks. Start with the basic functionality first, then you can add more features like scorekeeping, difficulty levels, or a graphical user interface. Happy coding! 😊
+Remember, the key to building a project is to break it down into smaller, manageable tasks. Start with the basic functionality first, then you can add more features like score keeping, difficulty levels, or a graphical user interface. Happy coding! 😊~~S~~
